@@ -1,2 +1,2 @@
-# PB
+# ProgrammingBasics
 Softuni C#
